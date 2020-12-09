@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Pacific Rim",
+        "tel":"0904238584",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "name":"Kung Fu PanDa",
+        "tel":"0392680999",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "name":"Vua Hài Kịch",
+        "tel":"0962984562",
+        "Permission":3
+    },
+    {
+        "id":4,
+        "name":"Pacific Rim",
+        "tel":"0904238584",
+        "Permission":1
+    },
+    {
+        "id":5,
+        "name":"Pacific Rim",
+        "tel":"0904238584",
+        "Permission":1
+    }
+]
